@@ -11,6 +11,10 @@ body {
     line-height: 1.5rem;
 }
 
+.about__logo {
+    height: 3rem;
+}
+
 .rainbow_text_animated {
     background: linear-gradient(to right, #6666ff, #0099ff , #00ff00, #ff3399, #6666ff);
     -webkit-background-clip: text;
