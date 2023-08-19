@@ -18,7 +18,7 @@ sectionPagesMenu = "main"
 noindex = false
 
 [params.theme]
-palette = "test"
+palette = "aria"
 
 [menu]
     [[menu.main]]
