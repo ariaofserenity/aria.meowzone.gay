@@ -6,7 +6,7 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Aria"
 +++
 
-My name is Aria, last name redacted :3. I am a pansexual and polyamorous non binary trans catgirl who loves video games, tech, cooking and women. And I am very cringe. Also aspiring to do gamedev someday.
+My name is Aria, last name redacted :3. My pronouns are they/them and I am a pansexual and polyamorous non binary trans catgirl who loves video games, tech, cooking and women. And I am very cringe. Also aspiring to do gamedev someday.
 
 I am terminally obsessed with Final Fantasy XIV, but here are some of my favorite games/series:
 
