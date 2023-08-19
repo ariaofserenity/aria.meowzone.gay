@@ -5,7 +5,7 @@ I am cringe but I am <span class="rainbow rainbow_text_animated">gay</span>
 # Links & Socials
 
 * [twitter](https://twitter.com/ariawright_)
-* [bsky](https://bsky.app/profile/pinkcat.gay)
+* [bsky](https://bsky.app/profile/aria.meowzone.gay)
 * [twitch](https://www.twitch.tv/ariaserenity)
 * [fflogs](https://www.fflogs.com/character/id/19260190)
 * [mail](mailto:ariaserenityvt@gmail.com)
