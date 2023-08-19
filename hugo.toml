@@ -1,0 +1,43 @@
+baseURL = 'https://aria.meowzone.gay'
+title = "pinkcat.gay"
+theme = 'risotto'
+enableEmoji = true
+
+paginate = 3
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+# prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
+# See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
+ignoreErrors = ["error-remote-getjson"]
+
+# Automatically add content sections to main menu
+sectionPagesMenu = "main"
+
+[params]
+noindex = false
+
+[params.theme]
+palette = "test"
+
+[menu]
+    [[menu.main]]
+     identifier = "about"
+     name = "About me :3"
+     url = "/about/"
+     weight = 0
+     toc = true
+
+# Sidebar: about/bio
+[params.about]
+title = "Awawawawa"
+description = "Hi, my name is Aria and this is where I put my socials and ramble about stuff like tech and being extremely gay."
+logo = "images/logo.png"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[markup.goldmark.renderer]
+unsafe = true
